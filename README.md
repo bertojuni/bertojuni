@@ -1,18 +1,18 @@
 # Hi there, I'm berto juni - Just Call me [Berto][instagram] <img alt="Hello" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="33px">
-![](https://visitor-badge.laobi.icu/badge?page_id=dikynugraha1111.dikynugraha1111)
+![](https://visitor-badge.laobi.icu/badge?page_id=bertojuni.bertojuni)
 ### I'm a Developer!!
 
-- 🌱 I’m currently learning Flutter
+- 🌱 I am a Front End Web Development and UI/UX Designer
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I'm single :smirk:
+- ⚡ Fun fact: look on instagram :smirk:
 
 ---
 
 ### Find me
-[<img align="left" alt="Diky | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Diky | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Diky | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Diky | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="Website | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][website]
+[<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Github | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
 <br />
 
@@ -63,7 +63,7 @@
 </table>
 
 
-[github]: https://github.com/dikynugraha1111
-[instagram]: https://www.instagram.com/dikydifiera/
-[youtube]: https://www.youtube.com/channel/UCXEMprt8qobSSFJcN02uJGA
-[linkedin]: https://www.linkedin.com/in/diky-nugraha-difiera-92b45b1a7/
+[github]: https://github.com/bertojuni
+[instagram]: https://github.com/bertojuni/bertojuni.git
+[website]: https://bertojuni.github.io/
+[linkedin]: https://www.linkedin.com/in/bertojuni/
