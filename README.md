@@ -28,7 +28,6 @@
 <img align="left" alt="CodeIgniter3" width="26px" src="https://avatars.githubusercontent.com/u/44521256?s=200&v=4" />
 <img align="left" alt="SweetAlert" width="26px" src="https://avatars.githubusercontent.com/u/35137722?s=200&v=4" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nurulfikri.com%2Fdatabase%2Fmongodb%2F&psig=AOvVaw0s74sDmMaT2ToME9JHBegf&ust=1622953720620000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJiZl_fT__ACFQAAAAAdAAAAABAI" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
@@ -45,10 +44,10 @@
 <table style="border: 0px">
   <tr>
     <td valign="top" width="36%">
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikynugraha1111&langs_count=5&hide_border=true&theme=algolia&hide=css,scss,html,makefile,JavaScript,C" align="left" style="width: 100%" />
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bertojuni&langs_count=5&hide_border=true&theme=algolia&hide=css,scss,html,makefile,JavaScript,C" align="left" style="width: 100%" />
 </td>
     <td valign="top" width="64%">
-  <img src="https://github-readme-stats.vercel.app/api?username=dikynugraha1111&show_icons=true&count_private=true&hide_border=true&theme=algolia&include_all_commits=true" align="left" style="width: 100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bertojuni&show_icons=true&count_private=true&hide_border=true&theme=algolia&include_all_commits=true" align="left" style="width: 100%" />
      
 </td>
   </tr>
