@@ -1,4 +1,4 @@
-# Hi there, I'm dikynugraha1111 - Just Call me [Diky][instagram] <img alt="Hello" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="33px">
+# Hi there, I'm berto juni - Just Call me [Berto][instagram] <img alt="Hello" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="33px">
 ![](https://visitor-badge.laobi.icu/badge?page_id=dikynugraha1111.dikynugraha1111)
 ### I'm a Developer!!
 
