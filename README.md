@@ -1,6 +1,6 @@
 # Hi there, I'm berto juni - Just Call me [Berto][instagram] <img alt="Hello" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="33px">
 ![](https://visitor-badge.laobi.icu/badge?page_id=bertojuni.bertojuni)
-### I'm a Developer!!
+### I'm a Front End Developer!!
 
 - 🌱 I am a Front End Web Development and UI/UX Designer
 - 🥅 2021 Goals: Contribute more to Open Source projects
